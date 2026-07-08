@@ -1,0 +1,9 @@
+client: 
+Need an AI workflow for invoice processing
+
+Requirements:
+* Read uploaded invoices
+* Extract important fields
+* verify totals
+* Generate summary
+* Notify finance team
